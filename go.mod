@@ -1,4 +1,4 @@
-module github.com/tmonbek/protos
+module github.com/tmonbek/proto
 
 go 1.23.4
 
